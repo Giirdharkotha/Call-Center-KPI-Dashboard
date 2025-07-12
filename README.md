@@ -23,7 +23,7 @@ This project is part of my **Tableau for Data Visualization** certification from
 
 ## 📷 Screenshots
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Giirdharkotha/Call-Center-KPI-Dashboard/blob/main/Dashboard.png)
 
 ## 🙏 Credits
 
