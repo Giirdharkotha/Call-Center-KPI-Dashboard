@@ -4,7 +4,7 @@ Interactive Tableau dashboard analyzing key call center metrics as part of certi
 
 This project is part of my **Tableau for Data Visualization** certification from **Analyst Builder**. It focuses on building an interactive KPI dashboard using real call center data to provide actionable insights.
 
-🔗 [View the interactive dashboard on Tableau Public](PASTE_YOUR_LINK_HERE)
+🔗 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/giridhar.kotha/viz/KPIDashBoard_17522892218860/Dashboard1)
 
 ## 📌 Key Features
 
@@ -23,7 +23,7 @@ This project is part of my **Tableau for Data Visualization** certification from
 
 ## 📷 Screenshots
 
-![Dashboard Preview](images/dashboard-screenshot.png)
+![Dashboard Preview]()
 
 ## 🙏 Credits
 
